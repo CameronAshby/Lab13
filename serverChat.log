@@ -1,0 +1,8 @@
+Client1: Joined the chat 
+Client2: Joined the chat 
+Client2 whispers: Hi there  to Client1
+Client2: Changed their username to Test 
+Test: Hi 
+Test: Client1 was kicked from the chat. 
+Client1: Left the chat 
+Test: Left the chat 
